@@ -9,3 +9,8 @@ TodoBackend/todolist/*.iml
 # Ignore Maven wrapper files (if you don't need them in the repo)
 TodoBackend/todolist/mvnw
 TodoBackend/todolist/mvnw.cmd
+
+
+# IDE files (for IntelliJ, VS Code, etc.)
+.vscode/
+.idea/
