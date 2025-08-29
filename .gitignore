@@ -1,0 +1,11 @@
+# Ignore compiled and temporary files
+TodoBackend/todolist/target/
+
+# Ignore IDE-specific files (IntelliJ, Eclipse, etc.)
+TodoBackend/todolist/.idea/
+TodoBackend/todolist/.mvn/
+TodoBackend/todolist/*.iml
+
+# Ignore Maven wrapper files (if you don't need them in the repo)
+TodoBackend/todolist/mvnw
+TodoBackend/todolist/mvnw.cmd
